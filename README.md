@@ -1,1 +1,3 @@
 # Machin-Deep-Learning
+
+https://github.com/hyein5391/Machin-Deep-Learning/issues/1#issue-1426463547
