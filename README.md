@@ -69,3 +69,13 @@ RNN의 기본 구조↓
 
 
 
+
+
+★자동차에 대한 데이터 호출후 데이터셋 분포 결과
+
+![캡처_2022_10_28_14_45_10_111](https://user-images.githubusercontent.com/110071838/198512260-72830c2b-62f1-44f6-bdce-39ebfc75c717.png)
+
+![캡처_2022_10_28_14_45_20_380](https://user-images.githubusercontent.com/110071838/198512269-855c031c-3dd3-4928-bc0b-bfc21fb56cef.png)
+
+
+
