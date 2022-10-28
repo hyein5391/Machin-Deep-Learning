@@ -105,6 +105,4 @@ val_acc:는 학습안한 데이터수치 ↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 
 
-![캡처_2022_10_28_17_11_20_688](https://user-images.githubusercontent.com/110071838/198538305-cc0b7837-d031-4efa-9d38-55721065f07d.png)
-
-
+![캡처_2022_10_28_17_12_23_970](https://user-images.githubusercontent.com/110071838/198538381-98e96737-fe36-48cf-9a9c-aad83b3e9060.png)
