@@ -3,7 +3,8 @@
 https://www.anaconda.com/ -> Anaconda Distribution다운
 
 아나콘다 가상환경 설정 순서
-![가상환경설정](https://user-images.githubusercontent.com/110071838/198492075-1c3d8b6f-280f-481e-9ca8-316f4d9d61ea.png)
+
+![가상환경설정](https://user-images.githubusercontent.com/110071838/198503070-e1553967-d30f-4c67-9204-c388d1144d11.png)
 
 
 ![가상환경2](https://user-images.githubusercontent.com/110071838/198502955-e7b9da53-37ec-4609-897b-b8e04c9f93f0.png)
