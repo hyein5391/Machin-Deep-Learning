@@ -1,4 +1,8 @@
 # Machin-Deep-Learning
+아나콘다 설치 
+https://www.anaconda.com/ -> Anaconda Distribution다운
+
+
 
 ★지도 학습과 비지도 학습
 
