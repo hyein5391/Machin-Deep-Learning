@@ -3,6 +3,8 @@
 https://www.anaconda.com/ -> Anaconda Distribution다운
 
 
+![가상환경설정](https://user-images.githubusercontent.com/110071838/198492075-1c3d8b6f-280f-481e-9ca8-316f4d9d61ea.png)
+
 
 ★지도 학습과 비지도 학습
 
