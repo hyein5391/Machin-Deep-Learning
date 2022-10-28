@@ -9,7 +9,9 @@
 
 
 
-★지도 학습과 비지도 학습 '\n'
+★지도 학습과 비지도 학습
+
+
       지도학습                비지도 학습                강화학습
 (supervised learning)  (unsupervised learning)  (reinforcement learning)
 
