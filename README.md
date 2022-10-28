@@ -1,5 +1,5 @@
 # Machin-Deep-Learning
-![029fb088-3ef6-4e89-bb4c-7685d241da9e](https://user-images.githubusercontent.com/110071838/198440748-7d5810d4-5eb5-4713-bf16-d85a2da6a87f.jpg)
+![029fb088-3ef6-4e89-bb4c-7685d241da9e](https://user-images.githubusercontent.com/110071838/198441163-e2683330-8049-4755-9769-9e8e63c7c29f.jpg)
 
 
 
