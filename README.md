@@ -99,7 +99,7 @@ RNN의 기본 구조↓
 
 ![캡처_2022_10_28_17_02_58_588](https://user-images.githubusercontent.com/110071838/198536386-4acd9497-b563-4436-bb41-573bab6639dc.png)
 
-acc : 는 학습한 데이터를 나타낸다
+acc : 는 학습한 데이터수치
 
-val_acc:는 학습안한 데이터
+val_acc:는 학습안한 데이터수치
 
