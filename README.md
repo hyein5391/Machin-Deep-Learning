@@ -33,6 +33,6 @@ CNN은 ‘합성곱 신경망’으로 불리는데, 계산과정에서 합성�
 
 순환신경망으로도 불리는 RNN은 시계열 데이터처럼 시간에 따라 변화하는 데이터를 학습시키기 위한 딥러닝
 
-RNN의 기본 구조
+RNN의 기본 구조↓
 
 ![1_JluFN2aG9VvHP0I7kFVLqw](https://user-images.githubusercontent.com/110071838/198457348-de4fd0cc-621b-484a-a851-f34a4bdbc0c7.png)
