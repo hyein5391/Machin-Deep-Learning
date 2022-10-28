@@ -87,4 +87,4 @@ RNN의 기본 구조↓
 
 원-핫 인코딩 적용
 
-![캡처_2022_10_28_14_57_29_701](https://user-images.githubusercontent.com/110071838/198514095-c7a2235e-1bd4-4d4d-bfdb-46634cf492db.png)
+
