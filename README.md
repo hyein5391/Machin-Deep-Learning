@@ -29,7 +29,9 @@ https://www.anaconda.com/ -> Anaconda Distribution다운
 
 
 
-윈도우키 -> 설정 -> 기본앱
+
+
+
 ★지도 학습과 비지도 학습
 
 
