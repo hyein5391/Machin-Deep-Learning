@@ -91,3 +91,6 @@ RNN의 기본 구조↓
 
 
 ![캡처_2022_10_28_16_40_48_54](https://user-images.githubusercontent.com/110071838/198531887-5d3804bc-877e-4238-ae82-299c5975adf2.png)
+
+
+![캡처_2022_10_28_16_57_03_374](https://user-images.githubusercontent.com/110071838/198535162-febf4d00-1684-4547-a74e-e36d2fcaed8e.png)
