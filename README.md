@@ -2,8 +2,18 @@
 아나콘다 설치 
 https://www.anaconda.com/ -> Anaconda Distribution다운
 
-
+아나콘다 가상환경 설정 순서
 ![가상환경설정](https://user-images.githubusercontent.com/110071838/198492075-1c3d8b6f-280f-481e-9ca8-316f4d9d61ea.png)
+
+
+![가상환경2](https://user-images.githubusercontent.com/110071838/198502955-e7b9da53-37ec-4609-897b-b8e04c9f93f0.png)
+
+
+![가상환경 설정3](https://user-images.githubusercontent.com/110071838/198502964-2c96e91f-95d1-410a-9863-87ef025797d7.png)
+
+쥬피터 노트북 가상환경에 별도 설치
+![쥬피터 노트북 가상환경에 설치 별도 설치 필요](https://user-images.githubusercontent.com/110071838/198502982-8e092512-48e9-4001-aa65-c1cabd7eaa3f.png)
+
 
 
 ★지도 학습과 비지도 학습
