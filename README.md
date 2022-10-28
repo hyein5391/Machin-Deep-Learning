@@ -20,6 +20,8 @@ https://www.anaconda.com/ -> Anaconda Distribution다운
 
 
 
+
+
 가상환경 탈출 루트
 
 ![아나콘다 가상환경 빠져나가는 명령어](https://user-images.githubusercontent.com/110071838/198503812-cb81857b-e5af-448a-b6c3-41845d2877bb.png)
