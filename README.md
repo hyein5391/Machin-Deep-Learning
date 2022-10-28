@@ -16,7 +16,18 @@ https://www.anaconda.com/ -> Anaconda Distribution다운
 ![쥬피터 노트북 가상환경에 설치 별도 설치 필요](https://user-images.githubusercontent.com/110071838/198502982-8e092512-48e9-4001-aa65-c1cabd7eaa3f.png)
 
 
+![가상환경설정 4](https://user-images.githubusercontent.com/110071838/198503790-7440282f-7788-4231-817d-2dcdea1d6a4f.png)
 
+
+
+가상환경 탈출 루트
+
+![아나콘다 가상환경 빠져나가는 명령어](https://user-images.githubusercontent.com/110071838/198503812-cb81857b-e5af-448a-b6c3-41845d2877bb.png)
+
+
+
+
+윈도우키 -> 설정 -> 기본앱
 ★지도 학습과 비지도 학습
 
 
