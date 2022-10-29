@@ -75,6 +75,13 @@ RNN의 기본 구조↓
 
 ★자동차에 대한 데이터 호출후 데이터셋 분포 결과
 
+price(자동차가격), maint(자동차 유지 비용), doors(자동차 문 개수), persons(수용인원), lug_capacity(수하물 용량), safety(안전성)
+
+
+
+Output(차상태) : 이 데이터는 ubacc(허용 불가능한 수준) 및 acc(허용 가능한 수준, 양호 및 매우 좋은 중 하나의 값을 갖습니다\
+
+
 ![캡처_2022_10_28_14_45_10_111](https://user-images.githubusercontent.com/110071838/198512260-72830c2b-62f1-44f6-bdce-39ebfc75c717.png)
 
 ![캡처_2022_10_28_14_45_20_380](https://user-images.githubusercontent.com/110071838/198512269-855c031c-3dd3-4928-bc0b-bfc21fb56cef.png)
