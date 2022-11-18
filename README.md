@@ -120,3 +120,17 @@ val_acc:는 학습안한 데이터수치 ↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 
 
+
+
+
+
+
+# SimpleRNN 구현
+
+백신보관 냉장고 온도변화 센서 Data RNN구현
+
+![캡처_2022_11_18_15_50_37_307](https://user-images.githubusercontent.com/110071838/202640028-826df941-1603-487d-8eb7-50504b7bef61.png)
+
+
+
+![캡처_2022_11_18_15_50_45_455](https://user-images.githubusercontent.com/110071838/202640117-71a394ec-3851-4015-ab29-934ede87dcdf.png)
